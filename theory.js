@@ -23,7 +23,7 @@ let array = [1, 2, 3, 4, 5];
 /*
       concat()
                let array1 = [1, 2];
-               let array2 = [3, 4];
+     a          let array2 = [3, 4];
                let newArray = array1.concat(array2); // Объединяет два массива в один новый массив
                console.log(newArray); // Вывод: [1, 2, 3, 4]
 
